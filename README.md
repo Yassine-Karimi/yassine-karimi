@@ -30,4 +30,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassine-karimi&show_icons=true&locale=en&theme=tokyonight" alt="yassine-karimi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-karimi&&theme=tokyonight" alt="yassine-karimi" /></p>
